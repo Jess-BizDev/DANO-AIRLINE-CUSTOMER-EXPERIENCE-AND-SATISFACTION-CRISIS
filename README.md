@@ -69,6 +69,8 @@ We cannot rely on "forced loyalty." We must launch a "Service Recovery" campaign
 ## 5.0 Conclusion
 Dano Airlines has a broken Economy experience. By fixing the digital "friction" and improving the basic comfort for Economy passengers, the airline can easily recover its satisfaction rate and protect its loyal customer base from competitors.
 
+Connect with me on
+[Linkedin](https://www.linkedin.com/in/rasheedat-jessica-alliagbor/)
 
 
 
