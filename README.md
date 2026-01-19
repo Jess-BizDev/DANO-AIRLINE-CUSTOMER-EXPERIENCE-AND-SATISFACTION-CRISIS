@@ -20,8 +20,49 @@ The biggest reason for the satisfaction dip is the sheer volume of unhappy passe
 3.	The Result: Since our Economy service is failing, we are consistently letting down the "Personal Travel" segment, which represents the heart of our repeat business.
 
 ### 3.1 The Service Matrix: Ranking the Problems (Lowest to Highest)
-We ranked every service from the lowest rated to the highest. This "Pain Point List" shows exactly where Dano Airlines is losing its passengers
+We ranked every service from the lowest rated to the highest. This "Pain Point List" shows exactly where Dano Airlines is losing its passengers.
 
-![Service Rating Matrix](Service%20Rating%20Matrix).png
+![Service Ratings](Service%20Ratings%20Matrix.png)
+- #### The Red Zone
+Inflight Wifi Service, Online Booking, and Boarding are low across all classes. This means our digital experience is frustrating everyone, regardless of whether they paid for a Business or Economy ticket.
+
+### 3.2 Demographic Insights: Who is most unhappy?
+When we look at age groups, we see a clear pattern:
+1.	Seniors (65+): They report low satisfaction because the Online Booking and Boarding processes are too complicated.
+2.	Gen Z / Teens (Under 18): Their scores are low because the Wifi is unreliable. For this generation, a lack of connectivity is a major dealbreaker.
+
+![Dano Airline Dashboard](DANO%20AIRLINE%20DASHBOARD.png)
+
+### 3.3 The Loyalty Paradox
+We found that 99% of unhappy Personal Travelers are "Returning Customers." 
+The Reality is that they aren't returning because they are happy but because they feel "trapped" by frequent flyer miles or a lack of other flight options.
+-	The Danger: This is a "ticking time bomb." If a competitor enters our market with better Economy seats or a better app, these customers will leave us immediately because there is no emotional brand loyalty.
+
+## 4.0 Data-Driven Recommendations & Action Plan for Dano Airlines
+#### 1. Eliminate Digital Friction 
+The digital experience (Online Booking and Boarding) is the first impression a customer has. Our "First-time" fliers are much unhappier than returning ones, proving that the website/app is scaring away new business.
+#### Action Plan
+Simplify the online booking interface and streamline the boarding process to reduce "pre-flight stress."
+
+#### 2. The Economy Wi-Fi Overhaul
+Since Wi-Fi is the #1 complaint across all classes, we must change our strategy.
+#### Action Plan  
+Offer "Freemium" Wi-Fi services for everyone on board. This turns a major point of frustration into a valuable proposition for the 99% of loyal personal travelers.
+
+#### 3. Solve the Economy Trap
+The Matrix reveals that Economy passengers are uniquely unhappy across five specific touchpoints: Wi-Fi, Seat Comfort, In-flight Entertainment, Online Boarding and Booking. This indicates that the Economy "product" is viewed as a commodity rather than a service.
+#### Action Plan
+Re-design the Economy "Value Proposition." Small investments in seat ergonomics and an upgraded digital entertainment library can bridge the comfort gap without the massive cost of full cabin overhauls.  This will significantly improve the satisfaction of our highest-volume customer base.
+
+#### 4. Resolve the Loyalty Paradox
+The Loyalty Paradox (82% of customers return despite being unhappy) is a ticking time bomb. This loyalty is likely based on Frequent Flyer miles or lack of regional competition.
+#### Action Plan
+We cannot rely on "forced loyalty." We must launch a "Service Recovery" campaign targeted at our Returning-Dissatisfied segment. By offering "Welcome Back" incentives that include a free "Economy Plus" upgrade or priority boarding, we can re-establish an emotional connection with our most frequent fliers before a competitor enters our hub.
+
+## 5.0 Conclusion
+Dano Airlines has a broken Economy experience. By fixing the digital "friction" and improving the basic comfort for Economy passengers, the airline can easily recover its satisfaction rate and protect its loyal customer base from competitors.
+
+
+
 
 
