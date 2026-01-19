@@ -2,6 +2,7 @@
 ![A strategic analysis](Cover%20Photo.png)
 
 ## A strategic analysis to investigate why passenger satisfaction rates has fallen to 43.4% and provide a data-backed strategy to restore the Dano Airline’s reputation.
+To view the full interactive model, underlying DAX measures, and data transformations:**[Download Power BI Source File(.pbix)](Dano_Airline_Data_Analysis.pbix)**
 
 ## 1.0 Executive Summary
 Our analysis of 129,000+ passengers shows that Dano Airlines does not have a "general" problem. Instead, we are seeing a massive divide between two different types of customers. While our Business Class is a high-performing success (69% satisfaction), our Economy Class is in a state of crisis (18.7% satisfaction).
@@ -23,7 +24,13 @@ The biggest reason for the satisfaction dip is the sheer volume of unhappy passe
 We ranked every service from the lowest rated to the highest. This "Pain Point List" shows exactly where Dano Airlines is losing its passengers.
 
 ![Service Ratings](Service%20Ratings%20Matrix.png)
-- #### The Red Zone
+#### Legend:
+
+🔵 Blue: Represents Satisfied passengers (Success Zone).
+🔴 Red: Represents Neutral or Dissatisfied passengers (Risk Zone).
+
+_Note: Conditional formatting in the Service Matrix highlights scores below 3.0 in Red to identify immediate operational priorities._
+### The Red Zone
 Inflight Wifi Service, Online Booking, and Boarding are low across all classes. This means our digital experience is frustrating everyone, regardless of whether they paid for a Business or Economy ticket.
 
 ### 3.2 Demographic Insights: Who is most unhappy?
